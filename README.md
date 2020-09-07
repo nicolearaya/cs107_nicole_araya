@@ -1,1 +1,1 @@
-# Lectures Directory
+# cs107_nicole_araya
