@@ -16,14 +16,13 @@
 ..* 1 lemon, juiced
 ..* 1 egg, lightly beaten
 
-####Classes
-|Name      |Department  |Meeting Days|
-|:--------------------:|:----------:|:----------:|
-|CS107|CompSci|T, Th|
-|CS171: Visualization|CompSci|M, W, F|
-|AFVS99: Thesis|AFVS|W|
-|AFVS16R: Printmaking|AFVS|T, Th|
-|Independent Study|AFVS|n/a|
+###Classes
 
-
+| Name      | Department  | Meeting Days |
+| :--------------------: | :----------: | :----------: |
+| CS107 | CompSci | T, Th |
+| CS171: Visualization | CompSci | M, W, F |
+| AFVS99: Thesis | AFVS | W |
+| AFVS16R: Printmaking | AFVS | T, Th |
+| Independent Study | AFVS | n/a |
 
