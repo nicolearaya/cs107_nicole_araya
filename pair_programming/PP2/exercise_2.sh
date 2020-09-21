@@ -13,7 +13,7 @@
 
 # $( ls -a )
 
-for file in *
+for file in *(^/)
 do
     if [ -x $file ]; then
         echo $file 
